@@ -1,7 +1,15 @@
 ![captura de pantalla 2018-04-14 a las 5 36 52 p m](https://user-images.githubusercontent.com/32823481/38769888-7f244cea-400a-11e8-80a7-293dc415c086.png)  
-_Trying to understand people from different cultures, religions and countries have in common through their activism, is an amazing but difficult task._
-_With that in mind, we are working on an open project that tries
-to connect and share the histories & experiences of human rights activists, in an attractive and creative way._
+
+ :tada: Hey everybody! We are glad that you made it to our repository!  :tada:
+
+You want to know more about the project? link  
+
+You want to contribute? Great! Please select one of the following  
+
+You want to help us to create a beautifull and secure Webpage?
+You want to check out our Tookit or even conduct some Interviews?
+
+You can also leave us general feedback on the project and our material here
 
 # Welcome
 
